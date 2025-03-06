@@ -38,6 +38,8 @@ params:
       url: "https://www.linkedin.com/in/darshan-prajapati/"
     - name: github
       url: "https://github.com/darshanprajapati"
+    - name: email
+      url: "mailto:your.email@example.com"
     - name: buymeacoffee
       url: "https://www.buymeacoffee.com/darshan"
 

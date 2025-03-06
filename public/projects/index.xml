@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Darshan Prajapati</title>
-    <link>http://localhost:64831/projects/</link>
+    <link>http://localhost:65519/projects/</link>
     <description>Recent content in Projects on Darshan Prajapati</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Jul 2023 23:15:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:64831/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:65519/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Real-time Chat Application</title>
-      <link>http://localhost:64831/projects/real-time-chat/</link>
+      <link>http://localhost:65519/projects/real-time-chat/</link>
       <pubDate>Mon, 10 Jul 2023 23:15:00 +0700</pubDate>
-      <guid>http://localhost:64831/projects/real-time-chat/</guid>
+      <guid>http://localhost:65519/projects/real-time-chat/</guid>
       <description>Built with React, Node.js and Socket.io</description>
     </item>
     <item>
       <title>Machine Learning Image Classifier</title>
-      <link>http://localhost:64831/projects/ml-image-classifier/</link>
+      <link>http://localhost:65519/projects/ml-image-classifier/</link>
       <pubDate>Mon, 05 Jun 2023 23:15:00 +0700</pubDate>
-      <guid>http://localhost:64831/projects/ml-image-classifier/</guid>
+      <guid>http://localhost:65519/projects/ml-image-classifier/</guid>
       <description>A deep learning model that can classify images</description>
     </item>
   </channel>

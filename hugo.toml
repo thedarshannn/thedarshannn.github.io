@@ -46,6 +46,10 @@ buildExpired = false
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/thedarshannn"
+    
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:your.email@example.com"
 
 # Remove any font-related settings if they exist
 # [params.assets]

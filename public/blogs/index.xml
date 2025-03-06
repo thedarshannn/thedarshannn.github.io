@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Darshan Prajapati</title>
-    <link>http://localhost:64831/blogs/</link>
+    <link>http://localhost:65519/blogs/</link>
     <description>Recent content in Blogs on Darshan Prajapati</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Sep 2023 23:15:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:64831/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:65519/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with React</title>
-      <link>http://localhost:64831/blogs/getting-started-with-react/</link>
+      <link>http://localhost:65519/blogs/getting-started-with-react/</link>
       <pubDate>Fri, 01 Sep 2023 23:15:00 +0700</pubDate>
-      <guid>http://localhost:64831/blogs/getting-started-with-react/</guid>
+      <guid>http://localhost:65519/blogs/getting-started-with-react/</guid>
       <description>Learn the basics of React and build your first application</description>
     </item>
     <item>
       <title>Mastering TypeScript</title>
-      <link>http://localhost:64831/blogs/mastering-typescript/</link>
+      <link>http://localhost:65519/blogs/mastering-typescript/</link>
       <pubDate>Tue, 15 Aug 2023 23:15:00 +0700</pubDate>
-      <guid>http://localhost:64831/blogs/mastering-typescript/</guid>
+      <guid>http://localhost:65519/blogs/mastering-typescript/</guid>
       <description>Learn how to use TypeScript effectively in your projects</description>
     </item>
   </channel>
