@@ -21,7 +21,7 @@ params:
     enabled: true
     title: "Welcome! 👋"
     subtitle: "This is the website of **Darshan Prajapati**. I create educational content on software development and tech."
-    imageUrl: "/images/profile.png"
+    imageUrl: "profile.png"
     imageWidth: 120
     imageHeight: 120
     buttons:
