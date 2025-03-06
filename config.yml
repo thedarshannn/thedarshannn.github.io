@@ -30,8 +30,6 @@ params:
       - name: Projects
         url: projects
   socialIcons:
-    - name: youtube
-      url: "https://youtube.com/devchannel"
     - name: medium
       url: "https://medium.com/@darshan"
     - name: twitter

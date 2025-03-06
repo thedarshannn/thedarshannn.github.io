@@ -14,16 +14,9 @@ In my daytime, I work as a Software Engineer at a tech company.
 
 At night, I'm a content creator developing tutorials on:
 
-- 📺 **YouTube**: [**Dev Channel**](https://youtube.com/devchannel/)
-- 📝 [**Medium Blogs**](https://medium.com/@darshan)
-- 💻 [**GitHub**](https://github.com/darshanprajapati/)
-
-In my previous role, I worked on:
-
-- [**LinkedIn**](https://www.linkedin.com/in/darshan-prajapati/)
-- [**GitHub**](https://github.com/darshanprajapati/)
+- 📝 [**Medium Blogs**](https://medium.com/@mr.darshan2919)
+- 💻 [**GitHub**](https://github.com/thedarshannn)
 
 You can connect with me on:
 
-- [**Twitter**](https://twitter.com/darshanprajapati)
-- [**LinkedIn**](https://www.linkedin.com/in/darshan-prajapati/)
+- [**LinkedIn**](https://www.linkedin.com/in/darshan-prajapati29/)

@@ -2,61 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Darshan Prajapati</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:64831/</link>
     <description>Recent content on Darshan Prajapati</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Sep 2023 23:15:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:64831/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:64831/about/</link>
       <pubDate>Fri, 15 Sep 2023 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:64831/about/</guid>
       <description>&lt;p&gt;In my daytime, I work as a Software Engineer at a tech company.&lt;/p&gt;
 &lt;p&gt;At night, I&amp;rsquo;m a content creator developing tutorials on:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;📺 &lt;strong&gt;YouTube&lt;/strong&gt;: &lt;a href=&#34;https://youtube.com/devchannel/&#34;&gt;&lt;strong&gt;Dev Channel&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📝 &lt;a href=&#34;https://medium.com/@darshan&#34;&gt;&lt;strong&gt;Medium Blogs&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💻 &lt;a href=&#34;https://github.com/darshanprajapati/&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In my previous role, I worked on:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/darshan-prajapati/&#34;&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/darshanprajapati/&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📝 &lt;a href=&#34;https://medium.com/@mr.darshan2919&#34;&gt;&lt;strong&gt;Medium Blogs&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💻 &lt;a href=&#34;https://github.com/thedarshannn&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;You can connect with me on:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/darshanprajapati&#34;&gt;&lt;strong&gt;Twitter&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/darshan-prajapati/&#34;&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/darshan-prajapati29/&#34;&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
       <title>Getting Started with React</title>
-      <link>http://localhost:1313/blogs/getting-started-with-react/</link>
+      <link>http://localhost:64831/blogs/getting-started-with-react/</link>
       <pubDate>Fri, 01 Sep 2023 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/blogs/getting-started-with-react/</guid>
+      <guid>http://localhost:64831/blogs/getting-started-with-react/</guid>
       <description>Learn the basics of React and build your first application</description>
     </item>
     <item>
       <title>Mastering TypeScript</title>
-      <link>http://localhost:1313/blogs/mastering-typescript/</link>
+      <link>http://localhost:64831/blogs/mastering-typescript/</link>
       <pubDate>Tue, 15 Aug 2023 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/blogs/mastering-typescript/</guid>
+      <guid>http://localhost:64831/blogs/mastering-typescript/</guid>
       <description>Learn how to use TypeScript effectively in your projects</description>
     </item>
     <item>
       <title>Real-time Chat Application</title>
-      <link>http://localhost:1313/projects/real-time-chat/</link>
+      <link>http://localhost:64831/projects/real-time-chat/</link>
       <pubDate>Mon, 10 Jul 2023 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/projects/real-time-chat/</guid>
+      <guid>http://localhost:64831/projects/real-time-chat/</guid>
       <description>Built with React, Node.js and Socket.io</description>
     </item>
     <item>
       <title>Machine Learning Image Classifier</title>
-      <link>http://localhost:1313/projects/ml-image-classifier/</link>
+      <link>http://localhost:64831/projects/ml-image-classifier/</link>
       <pubDate>Mon, 05 Jun 2023 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/projects/ml-image-classifier/</guid>
+      <guid>http://localhost:64831/projects/ml-image-classifier/</guid>
       <description>A deep learning model that can classify images</description>
     </item>
   </channel>

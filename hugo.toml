@@ -36,16 +36,8 @@ buildExpired = false
       url = "projects"
       
   [[params.socialIcons]]
-    name = "youtube"
-    url = "https://youtube.com/devchannel"
-  
-  [[params.socialIcons]]
     name = "medium"
     url = "https://medium.com/@mr.darshan2919"
-  
-  [[params.socialIcons]]
-    name = "x"
-    url = "https://x.com/darshanprajapati"
   
   [[params.socialIcons]]
     name = "linkedin"
@@ -53,11 +45,7 @@ buildExpired = false
   
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/darshanprajapati"
-  
-  [[params.socialIcons]]
-    name = "buymeacoffee"
-    url = "https://www.buymeacoffee.com/darshan"
+    url = "https://github.com/thedarshannn"
 
 # Remove any font-related settings if they exist
 # [params.assets]
