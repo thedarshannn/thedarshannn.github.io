@@ -1,0 +1,86 @@
+baseURL = "https://yourdomain.com/"
+languageCode = "en-us"
+title = "Darshan Prajapati"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  [params.editPost]
+    Text = "Suggest Changes"
+    
+  [params.homeInfoParams]
+    Title = "Welcome! 👋"
+    Content = "This is the website of Darshan Prajapati. I create educational content on software development and tech."
+    
+  [params.profileMode]
+    enabled = true
+    title = "Welcome! 👋"
+    subtitle = "This is the website of **Darshan Prajapati**. I create educational content on software development and tech."
+    imageUrl = "profile.png" 
+    imageWidth = 120
+    imageHeight = 120
+    
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "blogs"
+      
+    [[params.profileMode.buttons]]
+      name = "Projects"
+      url = "projects"
+      
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://youtube.com/devchannel"
+  
+  [[params.socialIcons]]
+    name = "medium"
+    url = "https://medium.com/@mr.darshan2919"
+  
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/darshanprajapati"
+  
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/darshan-prajapati29/"
+  
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/darshanprajapati"
+  
+  [[params.socialIcons]]
+    name = "buymeacoffee"
+    url = "https://www.buymeacoffee.com/darshan"
+
+# Remove any font-related settings if they exist
+# [params.assets]
+#   disableFingerprinting = true
+
+# Remove any customCSS references
+# customCSS = ["css/custom-fonts.css"]
+
+[menu]
+  [[menu.main]]
+    identifier = "blogs"
+    name = "Blogs"
+    url = "/blogs/"
+    weight = 10
+    
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+    
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 40

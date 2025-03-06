@@ -1,0 +1,59 @@
+baseURL: "https://yourdomain.com/"
+languageCode: "en-us"
+title: "Darshan Prajapati"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+pagination:
+  pagerSize: 5
+
+params:
+  editPost:
+    Text: "Suggest Changes"
+  homeInfoParams:
+    Title: "Welcome! 👋"
+    Content: "This is the website of Darshan Prajapati. I create educational content on software development and tech."
+  profileMode:
+    enabled: true
+    title: "Welcome! 👋"
+    subtitle: "This is the website of **Darshan Prajapati**. I create educational content on software development and tech."
+    imageUrl: "profile.png"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Blog
+        url: blogs
+      - name: Projects
+        url: projects
+  socialIcons:
+    - name: youtube
+      url: "https://youtube.com/devchannel"
+    - name: medium
+      url: "https://medium.com/@darshan"
+    - name: twitter
+      url: "https://twitter.com/darshanprajapati"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/darshan-prajapati/"
+    - name: github
+      url: "https://github.com/darshanprajapati"
+    - name: buymeacoffee
+      url: "https://www.buymeacoffee.com/darshan"
+
+menu:
+  main:
+    - identifier: blogs
+      name: Blogs
+      url: /blogs/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40

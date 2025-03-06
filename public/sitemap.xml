@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2023-09-15T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/</loc>
+    <lastmod>2023-09-01T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/getting-started-with-react/</loc>
+    <lastmod>2023-09-01T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/mastering-typescript/</loc>
+    <lastmod>2023-08-15T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2023-07-10T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/real-time-chat/</loc>
+    <lastmod>2023-07-10T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/ml-image-classifier/</loc>
+    <lastmod>2023-06-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
