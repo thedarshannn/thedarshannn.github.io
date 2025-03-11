@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Darshan Prajapati</title>
-    <link>http://localhost:65519/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Darshan Prajapati</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Sep 2023 23:15:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:65519/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:65519/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 15 Sep 2023 23:15:00 +0700</pubDate>
-      <guid>http://localhost:65519/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;In my daytime, I work as a Software Engineer at a tech company.&lt;/p&gt;
 &lt;p&gt;At night, I&amp;rsquo;m a content creator developing tutorials on:&lt;/p&gt;
 &lt;ul&gt;
@@ -23,34 +23,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/darshan-prajapati29/&#34;&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Getting Started with React</title>
-      <link>http://localhost:65519/blogs/getting-started-with-react/</link>
-      <pubDate>Fri, 01 Sep 2023 23:15:00 +0700</pubDate>
-      <guid>http://localhost:65519/blogs/getting-started-with-react/</guid>
-      <description>Learn the basics of React and build your first application</description>
-    </item>
-    <item>
-      <title>Mastering TypeScript</title>
-      <link>http://localhost:65519/blogs/mastering-typescript/</link>
-      <pubDate>Tue, 15 Aug 2023 23:15:00 +0700</pubDate>
-      <guid>http://localhost:65519/blogs/mastering-typescript/</guid>
-      <description>Learn how to use TypeScript effectively in your projects</description>
-    </item>
-    <item>
-      <title>Real-time Chat Application</title>
-      <link>http://localhost:65519/projects/real-time-chat/</link>
-      <pubDate>Mon, 10 Jul 2023 23:15:00 +0700</pubDate>
-      <guid>http://localhost:65519/projects/real-time-chat/</guid>
-      <description>Built with React, Node.js and Socket.io</description>
-    </item>
-    <item>
-      <title>Machine Learning Image Classifier</title>
-      <link>http://localhost:65519/projects/ml-image-classifier/</link>
-      <pubDate>Mon, 05 Jun 2023 23:15:00 +0700</pubDate>
-      <guid>http://localhost:65519/projects/ml-image-classifier/</guid>
-      <description>A deep learning model that can classify images</description>
     </item>
   </channel>
 </rss>
