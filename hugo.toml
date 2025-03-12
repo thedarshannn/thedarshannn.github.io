@@ -17,12 +17,12 @@ buildExpired = false
     
   [params.homeInfoParams]
     Title = "Welcome! 👋"
-    Content = "This is the website of Darshan Prajapati. I create educational content on software development and tech."
+    Content = "Hey, I’m Darshan! I build cool tech stuff, write about it, and share what I learn along the way. 🚀"
     
   [params.profileMode]
     enabled = true
     title = "Welcome! 👋"
-    subtitle = "This is the website of **Darshan Prajapati**. I create educational content on software development and tech."
+    subtitle = "Hey, I’m Darshan! I build cool tech stuff, write about it, and share what I learn along the way. 🚀"
     imageUrl = "profile.png" 
     imageWidth = 120
     imageHeight = 120
