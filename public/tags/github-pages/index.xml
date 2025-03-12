@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blogs on Darshan Prajapati</title>
-    <link>http://localhost:1313/blogs/</link>
-    <description>Recent content in Blogs on Darshan Prajapati</description>
+    <title>GitHub Pages on Darshan Prajapati</title>
+    <link>http://localhost:1313/tags/github-pages/</link>
+    <description>Recent content in GitHub Pages on Darshan Prajapati</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Jul 2023 10:00:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Built My Website with Hugo and GitHub Pages</title>
       <link>http://localhost:1313/blogs/how-i-built-my-website/</link>

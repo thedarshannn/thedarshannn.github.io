@@ -6,23 +6,29 @@
     <description>Recent content on Darshan Prajapati</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Sep 2023 23:15:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Fri, 15 Sep 2023 23:15:00 +0700</pubDate>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;In my daytime, I work as a Software Engineer at a tech company.&lt;/p&gt;
-&lt;p&gt;At night, I&amp;rsquo;m a content creator developing tutorials on:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;📝 &lt;a href=&#34;https://medium.com/@mr.darshan2919&#34;&gt;&lt;strong&gt;Medium Blogs&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💻 &lt;a href=&#34;https://github.com/thedarshannn&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You can connect with me on:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/darshan-prajapati29/&#34;&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;I’m in my last semester of the Computer Engineering Technology program at Humber College, figuring out life as an international student in Canada. Right now, I’m deep into my capstone project, Smart Sprout—a smart gardening system that helps plants thrive with tech.&lt;/p&gt;
+&lt;p&gt;I’m on the lookout for an entry-level job in tech where I can put my skills to work and keep learning. I also love sharing what I build through tech blogs and GitHub projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Smart Sprout</title>
+      <link>http://localhost:1313/projects/smart-sprout/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/smart-sprout/</guid>
+      <description>An Android app for smart gardening that monitors and controls soil moisture, temperature, and light exposure using IoT sensors.</description>
+    </item>
+    <item>
+      <title>How I Built My Website with Hugo and GitHub Pages</title>
+      <link>http://localhost:1313/blogs/how-i-built-my-website/</link>
+      <pubDate>Sat, 15 Jul 2023 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/how-i-built-my-website/</guid>
+      <description>Step-by-step guide to building a personal website with Hugo and GitHub Pages.</description>
     </item>
   </channel>
 </rss>
