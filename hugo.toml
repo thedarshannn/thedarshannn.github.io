@@ -49,7 +49,7 @@ buildExpired = false
     
   [[params.socialIcons]]
     name = "email"
-    url = "mailto:your.email@example.com"
+    url = "mailto:mr.darshan2919@gmail.com"
 
 # Remove any font-related settings if they exist
 # [params.assets]
