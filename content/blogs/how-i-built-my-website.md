@@ -1,6 +1,6 @@
 ---
 title: "How I Built My Website with Hugo and GitHub Pages"
-date: 2023-07-15T10:00:00+05:30
+date: 2025-03-11
 draft: false
 description: "Step-by-step guide to building a personal website with Hugo and GitHub Pages."
 tags: ["Hugo", "GitHub Pages", "Static Sites", "Web Development"]
